@@ -2,7 +2,7 @@
 👀 I’m passionate about backend development  
 🌱 Currently learning Node.js, Express.js, and MongoDB  
 💞️ Looking to collaborate on backend projects and REST API development  
-📫 Reach me at: your-kishanrwt148@gmail.com  
+📫 Reach me at: kishanrwt148@gmail.com  
 😄 Pronouns: He  
 ⚡ Fun fact: I love debugging tricky issues more than writing new code!
 
