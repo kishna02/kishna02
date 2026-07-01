@@ -117,7 +117,7 @@ Async Programming | API Integration | CI/CD Basics | Agile Collaboration | Debug
 https://linkedin.com/in/kishan-kumar-ravat-b2b522290/
 
 💻 GitHub
-https://github.com/kishana02
+https://github.com/kishna02
 
 🌐 Portfolio
 https://meraportfolio0.netlify.app/
